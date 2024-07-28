@@ -1,6 +1,6 @@
-# Generate CSV file in Laravel
+# Generate and Download CSV file in Laravel without using any Package
 
-This is a simple Laravel 10 application which displays data in a html table with Laravel pagination. It creates some data using Laravel Faker. User can click on download CSV button to download all data in a csv file.
+This is a simple Laravel application which displays data in a html table with Laravel pagination. It creates some data using Laravel Faker. User can click on download CSV button to download all data in a csv file. Tutorial - https://codehow2.com/laravel/how-to-generate-and-download-csv-file-in-laravel 
 
 # How To Use
 
